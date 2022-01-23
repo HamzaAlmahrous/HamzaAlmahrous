@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @HamzaAlmahrous
+- 🎓 Computer Science Engineering Student in Damascus University
 - 👀 I’m interested in Data Analysis & Mobile Applications
 - 🌱 I’m currently learning Flutter & laravel
-- 💞️ I’m looking to collaborate on 
+- 🔥 solo learn is a passion
 - 📫 How to reach me:
 -    Facebook: https://www.facebook.com/profile.php?id=100009613271862
 -    LinkedIn: https://www.linkedin.com/in/hamza-almahrous/
