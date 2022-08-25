@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hamza</h1>
-<h3 align="center">🌱 A flutter developer</h3>
-<h3 align="center">🎓 Computer Science Engineering Student in Damascus University</h3>
-<h3 align="center">🔥 solo learn is a passion</h3>
+<h1 align="center">Hi, I'm Hamza 👋</h1>
+<h3>🌱 A flutter developer</h3>
+<h3>🎓 Computer Science Engineering Student in Damascus University</h3>
+<h3>🔥 solo learn is a passion</h3>
 
 <h3 align="left">Connect with me:</h3>
 
