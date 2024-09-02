@@ -11,8 +11,8 @@
 <a href="https://instagram.com/hamza_mahrous7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamza_mahrous7" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/skyline-7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="skyline-7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/skyline_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="skyline_7" height="30" width="40" /></a>
-<a href="https://discord.gg/hamza_#2800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hamza_#2800" height="30" width="40" /></a>
 </p>
+
 ![GitHub followers](https://img.shields.io/github/followers/HamzaAlmahrous?label=Follow&style=social)
 
 
